@@ -1,6 +1,11 @@
 # CRM Leads & ROI Analysis Dashboard (Python + Power BI)
 This project combines Python for data cleaning & exploratory data analysis (EDA) with Power BI for data modeling and visualization, delivering a comprehensive view of marketing campaign performance, lead qualification, and ROI.
 
+
+<img width="8001" height="4468" alt="InvestMenter Leads Insight" src="https://github.com/user-attachments/assets/0da2e2fc-9cca-4524-9552-380ad0079622" />
+
+
+
 # 🔧 Data Preparation (Python)
 
 - Removed unnecessary columns to streamline datasets.
